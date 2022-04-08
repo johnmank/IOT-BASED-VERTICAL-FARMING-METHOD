@@ -10,6 +10,7 @@ As we all know,the peoples who lives in apartment and flats does not get enough 
 * pump(230 v ac aquarium)
 * array of Led strip
 * 12 v smps
+* Google firebase account
 ## Regards
 * Sreevidya p
 * Beenu Riju
