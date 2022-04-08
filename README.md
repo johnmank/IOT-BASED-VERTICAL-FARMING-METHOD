@@ -22,7 +22,7 @@ As we all know,the peoples who lives in apartment and flats does not get enough 
 * Create 2 webpages 
 ## Images
 ![alt text](https://user-images.githubusercontent.com/60437235/162485655-cd872839-4537-4b02-ac81-6a8495c420ac.jpg)
-
+![alt text](https://user-images.githubusercontent.com/60437235/162486203-9b65b703-c033-4ea5-9d79-ff8edde393c6.jpg)
 ## Regards
 * Sreevidya p
 * Beenu Riju
