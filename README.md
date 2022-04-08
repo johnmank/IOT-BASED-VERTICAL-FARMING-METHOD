@@ -11,6 +11,15 @@ As we all know,the peoples who lives in apartment and flats does not get enough 
 * array of Led strip
 * 12 v smps
 * Google firebase account
+## Installation and setup
+* Google Firebase and ESP8266
+* Arduino IDE
+* ESP8266 setup
+* Google FIREBASE account creation
+* Connecting Firebase and ESP8266
+* CODE for connecting to Firebase database
+* Google Firebase and WEBPAGE
+* Create 2 webpages 
 ## Regards
 * Sreevidya p
 * Beenu Riju
